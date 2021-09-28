@@ -1,6 +1,0 @@
-# adding-string-in-the-begining-of-the-file-name-in-ubuntu
-# Write an one liner code to rename the files with the pattern:  your_first_name_{original_name_of_the_file} 
-# Ten text files are created and by using following command first name is added in the file name
- 
- 
- rename 's/^/bahnishikha_/' *.txt
